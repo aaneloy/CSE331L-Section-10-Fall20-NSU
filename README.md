@@ -8,7 +8,7 @@ Department of Electrical and Computer Engineering
 
 <p align="justify">
 This is the official Github Repository for <b>CSE331L: Microprocessor Interfacing & Embedded System Lab, Section 10, Fall 2020</b>. All course-related materials and Code submission will be facilitated here.</br> </br> 
-Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu or neloyn@myumanitoba.ca)
+Instructor: <strong>Asif Ahmed Neloy</strong> (email: <strong>asif.neloy@northsouth.edu</strong> or <strong>neloyn@myumanitoba.ca</strong>)
 
 ## _Office Hour:_
 * Monday: 7.00 pm to 8.00 pm
@@ -113,7 +113,7 @@ This course provides an introduction to the fundamental concept of microprocesso
     <th>Week 9</th>
     <th><a href="">Lab 9</a></th> 
     <th>Final</th>
-    <th>06.1.2021/th>
+    <th>06.1.2021</th>
   </tr>
 </table>
 </p>
