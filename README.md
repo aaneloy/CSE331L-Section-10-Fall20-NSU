@@ -145,20 +145,20 @@ This course provides an introduction to the fundamental concept of microprocesso
 
 ## _Submission Links_:
 
-* _Homework:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Homework%20Submission/Homework%201">Link</a>)
+* _Homework:_ (Submission <a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Homework%20Submission">Link</a>)
 
-* _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
+* _Lab Assessment:_ (Submission <a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Lab%20Assessment%20Submission">Link</a>)
 
 ## _Lab Resource_:
 
-* _Marks:_ (Updated <a href="https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/blob/master/Marks/CSE331L_Section_7_Marks.pdf">Here</a>)
-* _Class Lecture_: https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/tree/master/Slides
-* _Lab Code_: https://github.com/aaneloy/CSE331L_Section_7_Summer_2020_NSU/tree/master/Codes
+* _Marks:_ (Updated <a href="">Here</a>)
+* _Class Lecture_: 
+* _Lab Code_: 
 
 ## _Project_:
 
-* _Proteus Simulation:_ (<a href="https://drive.google.com/file/d/1bNFjYQLZiGAtlPBC_9fmlSWjQGc8MFOs/view">Class recording</a>)
-* _MikroC Coding:_ (<a href="https://drive.google.com/file/d/1tHtor7d5fYu7o-vdrzQT3sCoDRX8Nv1l/view">Class recording</a>)
+* _Proteus Simulation:_ (<a href="">Class recording</a>)
+* _MikroC Coding:_ (<a href="">Class recording</a>)
 
 
 ## _Github Instructions:_
