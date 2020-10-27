@@ -4,7 +4,7 @@
 Department of Electrical and Computer Engineering
 
 
-## _CSE331L: Microprocessor Interfacing & Embedded System Lab - Section 7 (Summer'2020)_ 
+## _CSE331L: Microprocessor Interfacing & Embedded System Lab - Section 10 (Fall'2020)_ 
 
 <p align="justify">
 This is the official Github Repository for <b>CSE331L: Microprocessor Interfacing & Embedded System Lab, Section 10, Fall 2020</b>. All course-related materials and Code submission will be facilitated here.</br> </br> 
@@ -15,7 +15,7 @@ Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu 
 * **P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
 </p>
 
-## _Course Description:_ (Outline - <a href="https://github.com/NeloyNSU/CSE331L_Section_7_Summer_2020_NSU/blob/master/Materials/CSE331L_Course_Outline_Summer_2020_Section_7.pdf">Here</a>)
+## _Course Description:_ (Outline - <a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/blob/main/Course%20Material/CSE331L_Course_Outline_Fall_2020_Section_10.pdf">Here</a>)
 <p align="justify">
 This course provides an introduction to the fundamental concept of microprocessor architecture and microprocessor based embedded systems. A basic idea of the internal and external architecture of the microprocessor 8086 will be provided followed by the physical pin diagram of microprocessor 8086. The course will also cover the other peripheral devices of a microprocessor based system i.e. RAM 6116, PIO 8255 Controller and 7-Segment Display. The course will then cover the programming languages for interfacing: Assembly language followed by Interrupt and data conversion algorithm. A brief introduction to the Microcontroller 8051 will also be provided. Simulation software tool: emulator 8086 will be introduced in the laboratory classes for doing simulation-based project works. This course has separate mandatory laboratory session every week as CSE 331L.
 </p>
