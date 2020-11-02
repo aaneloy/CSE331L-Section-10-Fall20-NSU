@@ -22,6 +22,7 @@ This course provides an introduction to the fundamental concept of microprocesso
 
 ## _Lab Hours:_
 * Wednesday: 8.00 am to 11.10 pm.
+* Google Meet link - https://meet.google.com/rur-qvjr-zsv
 * **Lab will start from 8.10 am and attendance will be taken on 8.20 am**
 
 ## _Mark Distribution:_
@@ -120,11 +121,20 @@ This course provides an introduction to the fundamental concept of microprocesso
 
 ## _Required Software:_
 
+### MAC OS and Windows 10
 1. **EMU8086** - https://emu8086-microprocessor-emulator.en.softonic.com/download
 2. **Proteus, MikroC, PicKit3 Programmer** - https://drive.google.com/drive/folders/1nIcUIjz8zcJ1pOLng5mP7JQ1xtKrWsE_?usp=sharing
 3. **VS Code** - https://code.visualstudio.com/download
 4. **Git SCM** - https://git-scm.com/downloads
 5. **Github Desktop** - https://desktop.github.com/
+
+### Linux
+There is no alternative to **EMU8086** and other software. What you can do, create a **Virtual Machine** inside the ubuntu distributor and run Windows 10 there. Alternatively, **Wine** is a good option too, but Proteus will not run there. So the best shot will be to use Windows 10 inside a Virtual Machine.
+
+Some useful links are attached.
+
+1. Virtual Machine Setup - https://itsfoss.com/install-windows-10-virtualbox-linux/
+2. Wine setup - https://www.linux.com/training-tutorials/how-install-and-use-wine-run-windows-applications-linux/
 
 
 ## _Submission Guideline_:
