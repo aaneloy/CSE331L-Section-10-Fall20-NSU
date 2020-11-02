@@ -12,6 +12,7 @@ Instructor: <strong>Asif Ahmed Neloy</strong> (email: <strong>asif.neloy@northso
 
 ## _Office Hour:_
 * Monday: 7.00 pm to 8.00 pm
+* Google Meet link - https://meet.google.com/rur-qvjr-zsv
 * **P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
 </p>
 
@@ -22,7 +23,6 @@ This course provides an introduction to the fundamental concept of microprocesso
 
 ## _Lab Hours:_
 * Wednesday: 8.00 am to 11.10 pm.
-* Google Meet link - https://meet.google.com/rur-qvjr-zsv
 * **Lab will start from 8.10 am and attendance will be taken on 8.20 am**
 
 ## _Mark Distribution:_
