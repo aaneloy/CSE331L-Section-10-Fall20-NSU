@@ -64,7 +64,7 @@ This course provides an introduction to the fundamental concept of microprocesso
   </tr>
   <tr>
     <th>Week 1</th>
-    <th><a href="">Lab 1</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Course%20Material/Lab%201">Lab 1</a></th> 
     <th>Introduction to Github and ASM</th>
     <th>4.11.2020</th>
   </tr>
