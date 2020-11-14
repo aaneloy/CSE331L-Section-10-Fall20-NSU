@@ -70,13 +70,13 @@ This course provides an introduction to the fundamental concept of microprocesso
   </tr>
   <tr>
     <th>Week 2</th>
-    <th><a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Course%20Material/Lab%202">Lab 2</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Course%20Material/Slides/Lab%202">Lab 2</a></th> 
     <th>Introduce Basic MOV functions. </th>
     <th>11.11.2020</th>
   </tr>
   <tr>
     <th>Week 3</th>
-    <th><a href="">Lab 3</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Course%20Material/Slides/Lab%203">Lab 3</a></th> 
     <th>Basic arithmetic, logical functions and interrupt</th>
     <th>18.11.2020</th>
   </tr>
