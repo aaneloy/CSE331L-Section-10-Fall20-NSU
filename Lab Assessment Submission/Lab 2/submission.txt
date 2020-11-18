@@ -1,1 +1,3 @@
+Add 3 integers using 3 different constant value (Adding with AX) and store them in BX.
+
 date: 18.11.20
